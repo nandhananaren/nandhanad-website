@@ -13,7 +13,7 @@ body {
     background-image:url(bg.jpg);
 }
 h1{
-    font-size:350px;
+    font-size:250px;
 }
 
 .navbar {
@@ -125,7 +125,7 @@ section:nth-child(even) {
 }
 
 h2 {
-    font-size: 32px;
+    font-size: 202px;
     margin-bottom: 20px;
     color: #333;
     border-bottom: 2px solid #f78da7;
