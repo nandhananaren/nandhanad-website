@@ -6,9 +6,11 @@
 
 body {
     font-family: 'Poppins', sans-serif;
+    background-color:pink;
+    color:pink
     font-size:medium;
     line-height: 1.6;
-    background-image:url(pink.avif);
+    
     
 }
 h1{
